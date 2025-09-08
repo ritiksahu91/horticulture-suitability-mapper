@@ -1,5 +1,17 @@
+<<<<<<< HEAD
 streamlit
 rasterio
 numpy
 matplotlib
 opencv-python
+=======
+streamlit
+rasterio
+numpy
+matplotlib
+opencv-python-headless>=4.5.5.64
+scikit-image>=0.21.0
+
+
+
+>>>>>>> 001e4ac4b2eee1952afd058bb1b2dfb2f07d7d38
